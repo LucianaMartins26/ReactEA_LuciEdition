@@ -1,0 +1,9 @@
+SMILES;TargetSimilarity
+COc1ccc2[nH]cc(C(CCC=O)C(C)c3cn(C)c4cc(O)c(OC)cc34)c2c1;0.367
+COc1ccc2[nH]cc(C(CC=C=O)C(C)c3cn(C)c4cc(O)c(OC)cc34)c2c1;0.367
+COc1ccc2[nH]cc(C(O)C(CC=C=O)c3cn(C)c4cc(O)c(OC)cc34)c2c1;0.367
+COc1ccc2[nH]cc(C(C)(O)C(CO)c3cn(C(C)=O)c4cc(O)c(OC)cc34)c2c1;0.364
+COc1ccc2[nH]cc(C(C)(O)C(CO)c3cn(CC=O)c4cc(O)c(OC)cc34)c2c1;0.36
+COc1ccc2[nH]cc(C(CCC(C)=O)C(C)c3cn(C)c4cc(O)c(OC)cc34)c2c1;0.36
+COc1ccc2[nH]cc(C(C)(O)C(C)c3cn(CCN)c4cc(O)c(OC)cc34)c2c1;0.358
+CCCC(N)(c1c[nH]c2ccc(OC)cc12)C(C)c1cn(C)c2cc(O)c(OC)cc12;0.358

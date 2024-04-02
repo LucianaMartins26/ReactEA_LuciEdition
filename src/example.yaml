@@ -1,0 +1,12 @@
+exp_name: "QED_PAPER"
+
+init_pop_path: "ecoli_sink.tsv"
+init_pop_size: 648
+
+max_rules_by_iter: 22949
+tolerance: 0.1
+
+generations: 100
+algorithm: "NSGAIII"
+
+output_path: "outputs/"

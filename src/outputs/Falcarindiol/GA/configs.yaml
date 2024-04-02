@@ -1,0 +1,16 @@
+algorithm: GA
+crossover_probability: 1.0
+exp_name: Falcarindiol
+final_population_path: /home/lmartins/ReactEA_LuciEdition/ReactEA_LuciEdition/src/outputs/Falcarindiol/GA/FINAL_03-27_14-56-16.csv
+final_population_unique_solutions_path: /home/lmartins/ReactEA_LuciEdition/ReactEA_LuciEdition/src/outputs/Falcarindiol/GA/FINAL_03-27_14-56-16_UNIQUE_SOLUTIONS.csv
+generations: 100
+init_pop_path: /home/lmartins/ReactEA_LuciEdition/ReactEA_LuciEdition/src/building_blocks.tsv
+max_rules_by_iter: 22949
+mutation_probability: 1.0
+output_dir: /home/lmartins/ReactEA_LuciEdition/ReactEA_LuciEdition/src/outputs/Falcarindiol/GA
+output_path: outputs/
+standardize: true
+start_time: 1711551376.3098454
+time: 03-27_14-56-16
+tolerance: 0.1
+transformations_path: /home/lmartins/ReactEA_LuciEdition/ReactEA_LuciEdition/src/outputs/Falcarindiol/GA/FINAL_TRANSFORMATIONS_03-27_14-56-16.csv

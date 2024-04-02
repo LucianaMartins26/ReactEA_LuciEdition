@@ -1,0 +1,12 @@
+exp_name: "Momilactone"
+
+init_pop_path: "building_blocks.tsv"
+standardize: True
+
+max_rules_by_iter: 22949
+tolerance: 0.1
+
+generations: 100
+algorithm: "GA"
+
+output_path: "outputs/"
